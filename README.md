@@ -1,0 +1,2 @@
+# IndianLiverDisease
+The  dataset is related to Indian patients who have been tested for a liver disease. Based on chemical compounds (bilrubin,albumin,protiens,alkaline phosphatase) present in human body and tests like SGOT, SGPT the outcome mentioned is whether person is a patient i.e, whether he needs to be diagnosed further or not. Build a predictive model using different algorithms which predicted most of the cases accurately.
